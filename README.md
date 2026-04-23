@@ -1,6 +1,6 @@
 
 Leap Year Calculator 
-This is a simple Python program to check whether a year is a leap year or not.
+A Python program to check whether a year is a leap year or not.
 -------------------------------------------------------------------------------
 How it works
 A year is a leap year if:
